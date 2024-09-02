@@ -1,32 +1,34 @@
-[
-  {
-    "username": "john_doe",
-    "email": "john.doe@example.com",
-    "age": 28,
-    "country": "United States"
-  },
-  {
-    "username": "jane_smith",
-    "email": "jane.smith@example.com",
-    "age": 34,
-    "country": "Canada"
-  },
-  {
-    "username": "alice_wong",
-    "email": "alice.wong@example.com",
-    "age": 22,
-    "country": "Australia"
-  },
-  {
-    "username": "mohammed_ali",
-    "email": "mohammed.ali@example.com",
-    "age": 30,
-    "country": "United Arab Emirates"
-  },
-  {
-    "username": "sophia_fernandez",
-    "email": "sophia.fernandez@example.com",
-    "age": 27,
-    "country": "Spain"
-  }
-]
+{
+  "userinfo": [
+    {
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "age": 28,
+      "country": "United States"
+    },
+    {
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "age": 34,
+      "country": "Canada"
+    },
+    {
+      "username": "alice_wong",
+      "email": "alice.wong@example.com",
+      "age": 22,
+      "country": "Australia"
+    },
+    {
+      "username": "mohammed_ali",
+      "email": "mohammed.ali@example.com",
+      "age": 30,
+      "country": "United Arab Emirates"
+    },
+    {
+      "username": "sophia_fernandez",
+      "email": "sophia.fernandez@example.com",
+      "age": 27,
+      "country": "Spain"
+    }
+  ]
+}
